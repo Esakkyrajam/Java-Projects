@@ -1,6 +1,6 @@
 # JavaProject
 
-Welcome to the JavaProject repository! This project is designed to [provide a brief description of the project's purpose and goals].
+Welcome to the JavaProject repository! This project is designed to Educational Resource, Community Collaboration, Continuous Improvement
 
 ## Table of Contents
 
