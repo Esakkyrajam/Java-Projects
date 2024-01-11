@@ -47,5 +47,5 @@ The COVID-19 Project focuses on [briefly describe the purpose and goals of the C
 Before you begin, ensure you have the following installed:
 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
-- [Spring Boot]([https://maven.apache.org/](https://spring.io/projects/spring-boot/)https://spring.io/projects/spring-boot/)
+- [Spring Boot](https://spring.io/projects/spring-boot/)
 
