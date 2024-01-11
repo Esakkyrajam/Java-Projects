@@ -34,12 +34,12 @@ The COVID-19 Tracking Project is a comprehensive system designed to provide real
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/covid19-tracking-project.git
+   git clone https://github.com/Esakkyrajam/Java-Projects/Covid-19.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd covid19-tracking-project
+   cd Covid-19
    ```
 
 3. **Run the Application:**
@@ -57,7 +57,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
-For any inquiries or issues, please contact [projectmaintainer@example.com](mailto:projectmaintainer@example.com).
+For any inquiries or issues, please contact [projectmaintainer@email.com](mailto:esakkyrajam@gmail.com).
 
 ---
 
