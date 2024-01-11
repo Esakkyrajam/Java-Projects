@@ -34,6 +34,9 @@ To get started with the FilmBooking project, follow the steps below:
 - Java Development Kit (JDK)
 - MySQL Database
 
+![FilmBooking Screenshot](https://www.flickr.com/photos/199809577@N03/53456358527/in/dateposted-public/)
+
+
 ## 🌈 Conclusion
 
 The FilmBooking project utilizes a MySQL database to seamlessly manage movie screenings and user data, providing a reliable platform for users to access real-time information and enhance their movie-watching experience.
