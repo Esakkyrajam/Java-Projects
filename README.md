@@ -27,7 +27,22 @@ The Film Booking Project is dedicated to providing a seamless and user-friendly 
 The COVID-19 Project focuses on [briefly describe the purpose and goals of the COVID-19 Project]. It leverages [mention technologies used] to [explain what problem it solves or what functionality it offers].
 ## Features
 
-- [List key features or functionalities of your project.]
+### Film Booking Project
+
+1. **User Authentication:** Secure user accounts with authentication for booking and personalized experiences.
+2. **Real-time Movie Information:** Access up-to-date details on movie screenings, showtimes, and availability.
+3. **Intuitive User Interface:** User-friendly design for seamless navigation and an engaging booking experience.
+4. **Admin Panel:** Efficient management of movies, theaters, and bookings for administrators.
+5. **Confirmation Emails:** Automatic email notifications for users, providing updates on booked movie screenings.
+
+### COVID-19 Project
+
+1. **Real-time Data Updates:** Stay informed with live updates on COVID-19 statistics, including cases, deaths, and recoveries.
+2. **Geographical Visualization:** Interactive maps and visualizations to track the spread and impact of the virus globally or by region.
+3. **Community Resources:** Information on local resources, testing centers, and vaccination sites.
+4. **Volunteer Opportunities:** Connect with volunteer initiatives supporting those affected by the pandemic.
+
+
 
 ## Getting Started
 
