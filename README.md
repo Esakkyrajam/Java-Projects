@@ -34,7 +34,7 @@ To get started with the FilmBooking project, follow the steps below:
 - Java Development Kit (JDK)
 - MySQL Database
 
-![FilmBooking Screenshot](https://flic.kr/p/2prKNZV)
+![FilmBooking Screenshot(https://drive.google.com/file/d/1qaJAcnyhjacTZEDlmt0gf0uZBmL8aFe4/view)
 
 
 ## 🌈 Conclusion
