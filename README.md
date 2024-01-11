@@ -6,9 +6,8 @@ Welcome to the JavaProject repository! This project is designed to [provide a br
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+
 
 ## Introduction
 
@@ -40,7 +39,6 @@ The COVID-19 Project focuses on [briefly describe the purpose and goals of the C
 
 
 
-## Getting Started
 
 ### Prerequisites
 
@@ -48,4 +46,5 @@ Before you begin, ensure you have the following installed:
 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Spring Boot](https://spring.io/projects/spring-boot/)
+- [MySQL](https://www.mysql.com/)
 
