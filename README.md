@@ -39,7 +39,7 @@ To get started with the FilmBooking project, follow the steps below:
 ![FilmBooking Screenshot](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/f%20(3).png)
 ![FilmBooking Screenshot](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/f%20(4).png)
 ![FilmBooking Screenshot](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/f%20(5).png)
-![FilmBooking Screenshot](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/f%20(6).png)
+![FilmBooking Screenshot](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/f%20(6).jpg)
 
 
 ## 🌈 Conclusion
