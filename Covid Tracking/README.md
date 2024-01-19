@@ -29,7 +29,7 @@ The COVID-19 Tracking Project is a comprehensive system designed to provide real
 
 - **RESTful API:**
   Spring Boot exposes a RESTful API that facilitates seamless communication between the frontend and backend. This API allows the frontend to request specific COVID-19 data, including death counts, for various countries.
-
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(1).png)
 ## How to Use
 
 1. **Clone the Repository:**
