@@ -29,7 +29,20 @@ The COVID-19 Tracking Project is a comprehensive system designed to provide real
 
 - **RESTful API:**
   Spring Boot exposes a RESTful API that facilitates seamless communication between the frontend and backend. This API allows the frontend to request specific COVID-19 data, including death counts, for various countries.
+
 ![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(1).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(2).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(3).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(4).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(5).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(6).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(7).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(8).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(9).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(10).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(11).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(12).png)
+![covid tracking](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/c%20(13).png)
 ## How to Use
 
 1. **Clone the Repository:**
