@@ -19,7 +19,7 @@ The Film Booking Project is dedicated to providing a seamless and user-friendly 
 
 ### COVID-19 Project
 
-The COVID-19 Project focuses on [briefly describe the purpose and goals of the COVID-19 Project]. It leverages [mention technologies used] to [explain what problem it solves or what functionality it offers].
+The COVID-19 Project focuses on briefly describe the purpose and goals of the COVID-19 Project. It leverages mention springboot, gitrepo, postman API for testing java to explain what problem it solves or what functionality it offers.
 ## Features
 
 ### Film Booking Project
